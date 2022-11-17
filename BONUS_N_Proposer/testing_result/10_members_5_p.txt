@@ -1,0 +1,1279 @@
+====== Election is Beginning ======
+====== There are 5 proposers and 5 acceptors ======
+====== Delay in response time: immediately ======
+Members that disconnect: 0
+M1 running on port number: 1133
+M2 running on port number: 1134
+M3 running on port number: 1135
+M4 running on port number: 1136
+M5 running on port number: 1137
+M6 running on port number: 1138
+M7 running on port number: 1139
+M8 running on port number: 1140
+M9 running on port number: 1141
+M10 running on port number: 1142
+M1 send proposal to M6
+
+M1 send proposal to M7
+
+M1 send proposal to M8
+
+M1 send proposal to M9
+
+M1 send proposal to M10
+
+M2 send proposal to M6
+
+M2 send proposal to M7
+
+M2 send proposal to M8
+
+M2 send proposal to M9
+
+M2 send proposal to M10
+
+M3 send proposal to M6
+
+M3 send proposal to M7
+
+M10 information: Current Accept Proposal ID: 1 - Accepted Value:  - Status of Acceptor: PROMISE - Previous Acception: false
+
+M8 information: Current Accept Proposal ID: 1 - Accepted Value:  - Status of Acceptor: PROMISE - Previous Acception: false
+
+M9 information: Current Accept Proposal ID: 1 - Accepted Value:  - Status of Acceptor: PROMISE - Previous Acception: false
+
+M3 send proposal to M8
+
+M6 information: Current Accept Proposal ID: 1 - Accepted Value:  - Status of Acceptor: PROMISE - Previous Acception: false
+
+M7 information: Current Accept Proposal ID: 1 - Accepted Value:  - Status of Acceptor: PROMISE - Previous Acception: false
+
+M3 send proposal to M9
+
+M8 information: Current Accept Proposal ID: 2 - Accepted Value:  - Status of Acceptor: PROMISE - Previous Acception: false
+
+M10 information: Current Accept Proposal ID: 2 - Accepted Value:  - Status of Acceptor: PROMISE - Previous Acception: false
+
+M3 send proposal to M10
+
+M6 information: Current Accept Proposal ID: 2 - Accepted Value:  - Status of Acceptor: PROMISE - Previous Acception: false
+
+M9 information: Current Accept Proposal ID: 2 - Accepted Value:  - Status of Acceptor: PROMISE - Previous Acception: false
+
+M7 information: Current Accept Proposal ID: 2 - Accepted Value:  - Status of Acceptor: PROMISE - Previous Acception: false
+
+M8 information: Current Accept Proposal ID: 3 - Accepted Value:  - Status of Acceptor: PROMISE - Previous Acception: false
+
+M4 send proposal to M6
+
+M6 information: Current Accept Proposal ID: 3 - Accepted Value:  - Status of Acceptor: PROMISE - Previous Acception: false
+
+M10 information: Current Accept Proposal ID: 3 - Accepted Value:  - Status of Acceptor: PROMISE - Previous Acception: false
+
+M1 send proposal to M6
+
+M4 send proposal to M7
+
+M9 information: Current Accept Proposal ID: 3 - Accepted Value:  - Status of Acceptor: PROMISE - Previous Acception: false
+
+M6 information: Current Accept Proposal ID: 4 - Accepted Value:  - Status of Acceptor: PROMISE - Previous Acception: false
+
+M4 send proposal to M8
+
+M1 send proposal to M7
+
+M2 send proposal to M6
+
+M8 information: Current Accept Proposal ID: 4 - Accepted Value:  - Status of Acceptor: PROMISE - Previous Acception: false
+
+M7 information: Current Accept Proposal ID: 3 - Accepted Value:  - Status of Acceptor: PROMISE - Previous Acception: false
+
+M1 send proposal to M8
+
+M4 send proposal to M9
+
+M9 information: Current Accept Proposal ID: 4 - Accepted Value:  - Status of Acceptor: PROMISE - Previous Acception: false
+
+M2 send proposal to M7
+
+M1 send proposal to M9
+
+M6 information: Current Accept Proposal ID: 4 - Accepted Value:  - Status of Acceptor: REJECTED - Previous Acception: false
+
+M4 send proposal to M10
+
+M10 information: Current Accept Proposal ID: 4 - Accepted Value:  - Status of Acceptor: PROMISE - Previous Acception: false
+
+M3 send proposal to M6
+
+M8 information: Current Accept Proposal ID: 4 - Accepted Value:  - Status of Acceptor: REJECTED - Previous Acception: false
+
+M2 send proposal to M8
+
+M5 send proposal to M6
+
+M9 information: Current Accept Proposal ID: 4 - Accepted Value:  - Status of Acceptor: REJECTED - Previous Acception: false
+
+M4 send proposal to M6
+
+M1 send proposal to M10
+
+M3 send proposal to M7
+
+M10 information: Current Accept Proposal ID: 4 - Accepted Value:  - Status of Acceptor: REJECTED - Previous Acception: false
+
+M6 information: Current Accept Proposal ID: 4 - Accepted Value:  - Status of Acceptor: REJECTED - Previous Acception: false
+
+M5 send proposal to M7
+
+M8 information: Current Accept Proposal ID: 4 - Accepted Value:  - Status of Acceptor: REJECTED - Previous Acception: false
+
+M2 send proposal to M9
+
+M3 send proposal to M8
+
+M9 information: Current Accept Proposal ID: 4 - Accepted Value:  - Status of Acceptor: REJECTED - Previous Acception: false
+
+M5 send proposal to M8
+
+M2 send proposal to M10
+
+M6 information: Current Accept Proposal ID: 4 - Accepted Value:  - Status of Acceptor: REJECTED - Previous Acception: false
+
+M8 information: Current Accept Proposal ID: 4 - Accepted Value:  - Status of Acceptor: REJECTED - Previous Acception: false
+
+M9 information: Current Accept Proposal ID: 4 - Accepted Value:  - Status of Acceptor: REJECTED - Previous Acception: false
+
+M1 send proposal to M6
+
+M3 send proposal to M9
+
+M7 information: Current Accept Proposal ID: 4 - Accepted Value:  - Status of Acceptor: PROMISE - Previous Acception: false
+
+M5 send proposal to M9
+
+M10 information: Current Accept Proposal ID: 4 - Accepted Value:  - Status of Acceptor: REJECTED - Previous Acception: false
+
+M6 information: Current Accept Proposal ID: 5 - Accepted Value:  - Status of Acceptor: PROMISE - Previous Acception: false
+
+M8 information: Current Accept Proposal ID: 5 - Accepted Value:  - Status of Acceptor: PROMISE - Previous Acception: false
+
+M1 send proposal to M7
+
+M5 send proposal to M10
+
+M9 information: Current Accept Proposal ID: 5 - Accepted Value:  - Status of Acceptor: PROMISE - Previous Acception: false
+
+M7 information: Current Accept Proposal ID: 4 - Accepted Value:  - Status of Acceptor: REJECTED - Previous Acception: false
+
+M1 send proposal to M8
+
+M10 information: Current Accept Proposal ID: 5 - Accepted Value:  - Status of Acceptor: PROMISE - Previous Acception: false
+
+M8 information: Current Accept Proposal ID: 6 - Accepted Value:  - Status of Acceptor: PROMISE - Previous Acception: false
+
+M2 send proposal to M6
+
+M1 send proposal to M9
+
+M9 information: Current Accept Proposal ID: 6 - Accepted Value:  - Status of Acceptor: PROMISE - Previous Acception: false
+
+M4 send proposal to M7
+
+M7 information: Current Accept Proposal ID: 4 - Accepted Value:  - Status of Acceptor: REJECTED - Previous Acception: false
+
+M2 send proposal to M7
+
+M4 send proposal to M8
+
+M3 send proposal to M10
+
+M1 send proposal to M10
+
+M8 information: Current Accept Proposal ID: 6 - Accepted Value:  - Status of Acceptor: REJECTED - Previous Acception: false
+
+M2 send proposal to M8
+
+M10 information: Current Accept Proposal ID: 6 - Accepted Value:  - Status of Acceptor: PROMISE - Previous Acception: false
+
+M7 information: Current Accept Proposal ID: 4 - Accepted Value:  - Status of Acceptor: REJECTED - Previous Acception: false
+
+M5 send proposal to M6
+
+M2 send proposal to M9
+
+M9 information: Current Accept Proposal ID: 6 - Accepted Value:  - Status of Acceptor: REJECTED - Previous Acception: false
+
+M8 information: Current Accept Proposal ID: 7 - Accepted Value:  - Status of Acceptor: PROMISE - Previous Acception: false
+
+M5 send proposal to M7
+
+M10 information: Current Accept Proposal ID: 6 - Accepted Value:  - Status of Acceptor: REJECTED - Previous Acception: false
+
+M2 send proposal to M10
+
+M7 information: Current Accept Proposal ID: 5 - Accepted Value:  - Status of Acceptor: PROMISE - Previous Acception: false
+
+M1 send proposal to M6
+
+M5 send proposal to M8
+
+M9 information: Current Accept Proposal ID: 7 - Accepted Value:  - Status of Acceptor: PROMISE - Previous Acception: false
+
+M8 information: Current Accept Proposal ID: 7 - Accepted Value:  - Status of Acceptor: REJECTED - Previous Acception: false
+
+M1 send proposal to M7
+
+M5 send proposal to M9
+
+M3 send proposal to M6
+
+M7 information: Current Accept Proposal ID: 5 - Accepted Value:  - Status of Acceptor: REJECTED - Previous Acception: false
+
+M1 send proposal to M8
+
+M9 information: Current Accept Proposal ID: 7 - Accepted Value:  - Status of Acceptor: REJECTED - Previous Acception: false
+
+M8 information: Current Accept Proposal ID: 7 - Accepted Value:  - Status of Acceptor: REJECTED - Previous Acception: false
+
+M6 information: Current Accept Proposal ID: 5 - Accepted Value:  - Status of Acceptor: REJECTED - Previous Acception: false
+
+M5 send proposal to M10
+
+M3 send proposal to M7
+
+M10 information: Current Accept Proposal ID: 7 - Accepted Value:  - Status of Acceptor: PROMISE - Previous Acception: false
+
+M1 send proposal to M9
+
+M7 information: Current Accept Proposal ID: 6 - Accepted Value:  - Status of Acceptor: PROMISE - Previous Acception: false
+
+M9 information: Current Accept Proposal ID: 7 - Accepted Value:  - Status of Acceptor: REJECTED - Previous Acception: false
+
+M6 information: Current Accept Proposal ID: 6 - Accepted Value:  - Status of Acceptor: PROMISE - Previous Acception: false
+
+M1 send proposal to M10
+
+M4 send proposal to M9
+
+M10 information: Current Accept Proposal ID: 7 - Accepted Value:  - Status of Acceptor: REJECTED - Previous Acception: false
+
+M7 information: Current Accept Proposal ID: 7 - Accepted Value:  - Status of Acceptor: PROMISE - Previous Acception: false
+
+M2 send proposal to M6
+
+M4 send proposal to M10
+
+M6 information: Current Accept Proposal ID: 7 - Accepted Value:  - Status of Acceptor: PROMISE - Previous Acception: false
+
+M10 information: Current Accept Proposal ID: 7 - Accepted Value:  - Status of Acceptor: REJECTED - Previous Acception: false
+
+M2 send proposal to M7
+
+M7 information: Current Accept Proposal ID: 7 - Accepted Value:  - Status of Acceptor: REJECTED - Previous Acception: false
+
+M5 send proposal to M6
+
+M2 send proposal to M8
+
+M6 information: Current Accept Proposal ID: 7 - Accepted Value:  - Status of Acceptor: REJECTED - Previous Acception: false
+
+M8 information: Current Accept Proposal ID: 7 - Accepted Value: M2 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M10 information: Current Accept Proposal ID: 7 - Accepted Value:  - Status of Acceptor: REJECTED - Previous Acception: false
+
+M5 send proposal to M7
+
+M7 information: Current Accept Proposal ID: 7 - Accepted Value:  - Status of Acceptor: REJECTED - Previous Acception: false
+
+M1 send proposal to M6
+
+M4 send proposal to M6
+
+M5 send proposal to M8
+
+M6 information: Current Accept Proposal ID: 7 - Accepted Value:  - Status of Acceptor: REJECTED - Previous Acception: false
+
+M2 send proposal to M9
+
+M9 information: Current Accept Proposal ID: 7 - Accepted Value: M2 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M4 send proposal to M7
+
+M1 send proposal to M7
+
+M7 information: Current Accept Proposal ID: 8 - Accepted Value:  - Status of Acceptor: PROMISE - Previous Acception: false
+
+M8 information: Current Accept Proposal ID: 9 - Accepted Value: M2 - Status of Acceptor: PROMISE - Previous Acception: true
+
+M5 send proposal to M9
+
+M3 send proposal to M8
+
+M4 send proposal to M8
+
+M1 send proposal to M8
+
+M6 information: Current Accept Proposal ID: 8 - Accepted Value:  - Status of Acceptor: PROMISE - Previous Acception: false
+
+M5 send proposal to M10
+
+M3 send proposal to M9
+
+M9 information: Current Accept Proposal ID: 9 - Accepted Value: M2 - Status of Acceptor: PROMISE - Previous Acception: true
+
+M4 send proposal to M9
+
+M1 send proposal to M9
+
+M7 information: Current Accept Proposal ID: 8 - Accepted Value:  - Status of Acceptor: REJECTED - Previous Acception: false
+
+M8 information: Current Accept Proposal ID: 9 - Accepted Value: M2 - Status of Acceptor: NO_PROMISE - Previous Acception: true
+
+M3 send proposal to M10
+
+M6 information: Current Accept Proposal ID: 8 - Accepted Value:  - Status of Acceptor: REJECTED - Previous Acception: false
+
+M4 send proposal to M10
+
+M1 send proposal to M10
+
+M9 information: Current Accept Proposal ID: 9 - Accepted Value: M2 - Status of Acceptor: NO_PROMISE - Previous Acception: true
+
+M7 information: Current Accept Proposal ID: 9 - Accepted Value:  - Status of Acceptor: PROMISE - Previous Acception: false
+
+M8 information: Current Accept Proposal ID: 11 - Accepted Value: M2 - Status of Acceptor: PROMISE - Previous Acception: true
+
+M6 information: Current Accept Proposal ID: 9 - Accepted Value:  - Status of Acceptor: PROMISE - Previous Acception: false
+
+M10 information: Current Accept Proposal ID: 9 - Accepted Value:  - Status of Acceptor: PROMISE - Previous Acception: false
+
+M9 information: Current Accept Proposal ID: 11 - Accepted Value: M2 - Status of Acceptor: PROMISE - Previous Acception: true
+
+M8 information: Current Accept Proposal ID: 11 - Accepted Value: M2 - Status of Acceptor: NO_PROMISE - Previous Acception: true
+
+M7 information: Current Accept Proposal ID: 10 - Accepted Value:  - Status of Acceptor: PROMISE - Previous Acception: false
+
+M6 information: Current Accept Proposal ID: 10 - Accepted Value:  - Status of Acceptor: PROMISE - Previous Acception: false
+
+M10 information: Current Accept Proposal ID: 9 - Accepted Value:  - Status of Acceptor: NO_PROMISE - Previous Acception: false
+
+M9 information: Current Accept Proposal ID: 11 - Accepted Value: M2 - Status of Acceptor: NO_PROMISE - Previous Acception: true
+
+M6 information: Current Accept Proposal ID: 11 - Accepted Value:  - Status of Acceptor: PROMISE - Previous Acception: false
+
+M5 send proposal to M6
+
+M10 information: Current Accept Proposal ID: 11 - Accepted Value:  - Status of Acceptor: PROMISE - Previous Acception: false
+
+M3 send proposal to M6
+
+M5 send proposal to M7
+
+M2 send proposal to M10
+
+M7 information: Current Accept Proposal ID: 11 - Accepted Value:  - Status of Acceptor: PROMISE - Previous Acception: false
+
+M6 information: Current Accept Proposal ID: 11 - Accepted Value:  - Status of Acceptor: REJECTED - Previous Acception: false
+
+M5 send proposal to M8
+
+M3 send proposal to M7
+
+M10 information: Current Accept Proposal ID: 11 - Accepted Value:  - Status of Acceptor: NO_PROMISE - Previous Acception: false
+
+M8 information: Current Accept Proposal ID: 11 - Accepted Value: M2 - Status of Acceptor: REJECTED - Previous Acception: true
+
+M7 information: Current Accept Proposal ID: 11 - Accepted Value:  - Status of Acceptor: REJECTED - Previous Acception: false
+
+M3 send proposal to M8
+
+M6 information: Current Accept Proposal ID: 12 - Accepted Value:  - Status of Acceptor: PROMISE - Previous Acception: false
+
+M9 information: Current Accept Proposal ID: 11 - Accepted Value: M2 - Status of Acceptor: REJECTED - Previous Acception: true
+
+M10 information: Current Accept Proposal ID: 11 - Accepted Value:  - Status of Acceptor: REJECTED - Previous Acception: false
+
+M3 send proposal to M9
+
+M5 send proposal to M9
+
+M1 send proposal to M6
+
+M7 information: Current Accept Proposal ID: 12 - Accepted Value:  - Status of Acceptor: PROMISE - Previous Acception: false
+
+M6 information: Current Accept Proposal ID: 13 - Accepted Value:  - Status of Acceptor: PROMISE - Previous Acception: false
+
+M3 send proposal to M10
+
+M5 send proposal to M10
+
+M1 send proposal to M7
+
+M10 information: Current Accept Proposal ID: 12 - Accepted Value:  - Status of Acceptor: PROMISE - Previous Acception: false
+
+M7 information: Current Accept Proposal ID: 13 - Accepted Value:  - Status of Acceptor: PROMISE - Previous Acception: false
+
+M1 send proposal to M8
+
+M2 send proposal to M6
+
+M10 information: Current Accept Proposal ID: 12 - Accepted Value:  - Status of Acceptor: REJECTED - Previous Acception: false
+
+M1 send proposal to M9
+
+M4 send proposal to M6
+
+M6 information: Current Accept Proposal ID: 14 - Accepted Value:  - Status of Acceptor: PROMISE - Previous Acception: false
+
+M3 send proposal to M6
+
+M5 send proposal to M6
+
+M1 send proposal to M10
+
+M4 send proposal to M7
+
+M5 send proposal to M7
+
+M3 send proposal to M7
+
+M4 send proposal to M8
+
+M2 send proposal to M7
+
+M8 information: Current Accept Proposal ID: 12 - Accepted Value: M2 - Status of Acceptor: PROMISE - Previous Acception: true
+
+M5 send proposal to M8
+
+M6 information: Current Accept Proposal ID: 14 - Accepted Value:  - Status of Acceptor: REJECTED - Previous Acception: false
+
+M10 information: Current Accept Proposal ID: 13 - Accepted Value:  - Status of Acceptor: PROMISE - Previous Acception: false
+
+M9 information: Current Accept Proposal ID: 12 - Accepted Value: M2 - Status of Acceptor: PROMISE - Previous Acception: true
+
+M4 send proposal to M9
+
+M2 send proposal to M8
+
+M5 send proposal to M9
+
+M8 information: Current Accept Proposal ID: 13 - Accepted Value: M2 - Status of Acceptor: PROMISE - Previous Acception: true
+
+M2 send proposal to M9
+
+M10 information: Current Accept Proposal ID: 13 - Accepted Value:  - Status of Acceptor: REJECTED - Previous Acception: false
+
+M1 send proposal to M6
+
+M2 send proposal to M10
+
+M8 information: Current Accept Proposal ID: 13 - Accepted Value: M2 - Status of Acceptor: REJECTED - Previous Acception: true
+
+M1 send proposal to M7
+
+M3 send proposal to M8
+
+M7 information: Current Accept Proposal ID: 14 - Accepted Value:  - Status of Acceptor: PROMISE - Previous Acception: false
+
+M10 information: Current Accept Proposal ID: 15 - Accepted Value:  - Status of Acceptor: PROMISE - Previous Acception: false
+
+M8 information: Current Accept Proposal ID: 15 - Accepted Value: M2 - Status of Acceptor: PROMISE - Previous Acception: true
+
+M1 send proposal to M8
+
+M3 send proposal to M9
+
+M7 information: Current Accept Proposal ID: 14 - Accepted Value:  - Status of Acceptor: REJECTED - Previous Acception: false
+
+M9 information: Current Accept Proposal ID: 13 - Accepted Value: M2 - Status of Acceptor: PROMISE - Previous Acception: true
+
+M6 information: Current Accept Proposal ID: 14 - Accepted Value:  - Status of Acceptor: REJECTED - Previous Acception: false
+
+M5 send proposal to M10
+
+M4 send proposal to M10
+
+M10 information: Current Accept Proposal ID: 15 - Accepted Value:  - Status of Acceptor: NO_PROMISE - Previous Acception: false
+
+M1 send proposal to M9
+
+M7 information: Current Accept Proposal ID: 15 - Accepted Value:  - Status of Acceptor: PROMISE - Previous Acception: false
+
+M9 information: Current Accept Proposal ID: 13 - Accepted Value: M2 - Status of Acceptor: REJECTED - Previous Acception: true
+
+M6 information: Current Accept Proposal ID: 15 - Accepted Value:  - Status of Acceptor: PROMISE - Previous Acception: false
+
+M7 information: Current Accept Proposal ID: 15 - Accepted Value:  - Status of Acceptor: REJECTED - Previous Acception: false
+
+M9 information: Current Accept Proposal ID: 15 - Accepted Value: M2 - Status of Acceptor: PROMISE - Previous Acception: true
+
+M6 information: Current Accept Proposal ID: 15 - Accepted Value:  - Status of Acceptor: REJECTED - Previous Acception: false
+
+M7 information: Current Accept Proposal ID: 15 - Accepted Value:  - Status of Acceptor: REJECTED - Previous Acception: false
+
+M5 send proposal to M6
+
+M9 information: Current Accept Proposal ID: 15 - Accepted Value: M2 - Status of Acceptor: NO_PROMISE - Previous Acception: true
+
+M6 information: Current Accept Proposal ID: 15 - Accepted Value: M5 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M5 send proposal to M7
+
+M9 information: Current Accept Proposal ID: 15 - Accepted Value: M2 - Status of Acceptor: REJECTED - Previous Acception: true
+
+M5 send proposal to M8
+
+M8 information: Current Accept Proposal ID: 15 - Accepted Value: M2 - Status of Acceptor: REJECTED - Previous Acception: true
+
+M4 send proposal to M6
+
+M1 send proposal to M10
+
+M9 information: Current Accept Proposal ID: 15 - Accepted Value: M2 - Status of Acceptor: REJECTED - Previous Acception: true
+
+M3 send proposal to M10
+
+M10 information: Current Accept Proposal ID: 15 - Accepted Value:  - Status of Acceptor: REJECTED - Previous Acception: false
+
+M4 send proposal to M7
+
+M5 send proposal to M9
+
+M6 information: Current Accept Proposal ID: 16 - Accepted Value: M5 - Status of Acceptor: PROMISE - Previous Acception: true
+
+M9 information: Current Accept Proposal ID: 15 - Accepted Value: M5 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M8 information: Current Accept Proposal ID: 15 - Accepted Value: M2 - Status of Acceptor: NO_PROMISE - Previous Acception: true
+
+M5 send proposal to M10
+
+M10 information: Current Accept Proposal ID: 15 - Accepted Value:  - Status of Acceptor: REJECTED - Previous Acception: false
+
+M7 information: Current Accept Proposal ID: 15 - Accepted Value: M5 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M4 send proposal to M8
+
+M3 send proposal to M6
+
+M6 information: Current Accept Proposal ID: 17 - Accepted Value: M5 - Status of Acceptor: PROMISE - Previous Acception: true
+
+M3 send proposal to M7
+
+M8 information: Current Accept Proposal ID: 15 - Accepted Value: M2 - Status of Acceptor: REJECTED - Previous Acception: true
+
+M4 send proposal to M9
+
+M9 information: Current Accept Proposal ID: 16 - Accepted Value: M5 - Status of Acceptor: PROMISE - Previous Acception: true
+
+M10 information: Current Accept Proposal ID: 15 - Accepted Value: M5 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M7 information: Current Accept Proposal ID: 16 - Accepted Value: M5 - Status of Acceptor: PROMISE - Previous Acception: true
+
+M3 send proposal to M8
+
+M4 send proposal to M10
+
+M6 information: Current Accept Proposal ID: 18 - Accepted Value: M5 - Status of Acceptor: PROMISE - Previous Acception: true
+
+M8 information: Current Accept Proposal ID: 15 - Accepted Value: M5 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M2 send proposal to M6
+
+M9 information: Current Accept Proposal ID: 17 - Accepted Value: M5 - Status of Acceptor: PROMISE - Previous Acception: true
+
+M7 information: Current Accept Proposal ID: 17 - Accepted Value: M5 - Status of Acceptor: PROMISE - Previous Acception: true
+
+M5 send proposal to M6
+
+M2 send proposal to M7
+
+M6 information: Current Accept Proposal ID: 19 - Accepted Value: M5 - Status of Acceptor: PROMISE - Previous Acception: true
+
+M8 information: Current Accept Proposal ID: 16 - Accepted Value: M5 - Status of Acceptor: PROMISE - Previous Acception: true
+
+M5 send proposal to M7
+
+M2 send proposal to M8
+
+M7 information: Current Accept Proposal ID: 19 - Accepted Value: M5 - Status of Acceptor: PROMISE - Previous Acception: true
+
+M2 send proposal to M9
+
+M1 send proposal to M6
+
+M5 send proposal to M8
+
+M9 information: Current Accept Proposal ID: 19 - Accepted Value: M5 - Status of Acceptor: PROMISE - Previous Acception: true
+
+M6 information: Current Accept Proposal ID: 19 - Accepted Value: M5 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M4 send proposal to M6
+
+M2 send proposal to M10
+
+M10 information: Current Accept Proposal ID: 16 - Accepted Value: M5 - Status of Acceptor: PROMISE - Previous Acception: true
+
+M3 send proposal to M9
+
+M5 send proposal to M9
+
+M7 information: Current Accept Proposal ID: 19 - Accepted Value: M5 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M4 send proposal to M7
+
+M6 information: Current Accept Proposal ID: 19 - Accepted Value: M5 - Status of Acceptor: REJECTED - Previous Acception: true
+
+M3 send proposal to M10
+
+M10 information: Current Accept Proposal ID: 19 - Accepted Value: M5 - Status of Acceptor: PROMISE - Previous Acception: true
+
+M1 send proposal to M7
+
+M8 information: Current Accept Proposal ID: 17 - Accepted Value: M5 - Status of Acceptor: PROMISE - Previous Acception: true
+
+M4 send proposal to M8
+
+M7 information: Current Accept Proposal ID: 19 - Accepted Value: M5 - Status of Acceptor: NO_PROMISE - Previous Acception: true
+
+M5 send proposal to M10
+
+M2 send proposal to M6
+
+M6 information: Current Accept Proposal ID: 19 - Accepted Value: M5 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M1 send proposal to M8
+
+M4 send proposal to M9
+
+M2 send proposal to M7
+
+M9 information: Current Accept Proposal ID: 19 - Accepted Value: M5 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M7 information: Current Accept Proposal ID: 19 - Accepted Value: M5 - Status of Acceptor: REJECTED - Previous Acception: true
+
+M1 send proposal to M9
+
+M6 announced that it voted M5 for President
+M4 send proposal to M10
+
+M7 announced that it voted M5 for President
+M2 send proposal to M8
+
+M3 send proposal to M6
+
+M9 announced that it voted M5 for President
+M9 information: Current Accept Proposal ID: 19 - Accepted Value: M5 - Status of Acceptor: REJECTED - Previous Acception: true
+
+M2 send proposal to M9
+
+M9 information: Current Accept Proposal ID: 19 - Accepted Value: M5 - Status of Acceptor: NO_PROMISE - Previous Acception: true
+
+M2 send proposal to M10
+
+M8 information: Current Accept Proposal ID: 19 - Accepted Value: M5 - Status of Acceptor: PROMISE - Previous Acception: true
+
+M10 information: Current Accept Proposal ID: 19 - Accepted Value: M5 - Status of Acceptor: NO_PROMISE - Previous Acception: true
+
+M3 send proposal to M7
+
+M7 information: Current Accept Proposal ID: 19 - Accepted Value: M5 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M6 information: Current Accept Proposal ID: 19 - Accepted Value: M5 - Status of Acceptor: REJECTED - Previous Acception: true
+
+M1 send proposal to M10
+
+M4 send proposal to M6
+
+M9 information: Current Accept Proposal ID: 19 - Accepted Value: M5 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M3 send proposal to M8
+
+M8 information: Current Accept Proposal ID: 19 - Accepted Value: M5 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M10 information: Current Accept Proposal ID: 19 - Accepted Value: M5 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M7 information: Current Accept Proposal ID: 19 - Accepted Value: M5 - Status of Acceptor: REJECTED - Previous Acception: true
+
+M6 information: Current Accept Proposal ID: 20 - Accepted Value: M5 - Status of Acceptor: PROMISE - Previous Acception: true
+
+M4 send proposal to M7
+
+M3 send proposal to M9
+
+M9 information: Current Accept Proposal ID: 19 - Accepted Value: M5 - Status of Acceptor: REJECTED - Previous Acception: true
+
+M10 information: Current Accept Proposal ID: 19 - Accepted Value: M5 - Status of Acceptor: REJECTED - Previous Acception: true
+
+M3 send proposal to M10
+
+M8 announced that it voted M5 for President
+M2 send proposal to M6
+
+M8 information: Current Accept Proposal ID: 19 - Accepted Value: M5 - Status of Acceptor: REJECTED - Previous Acception: true
+
+M6 information: Current Accept Proposal ID: 20 - Accepted Value: M5 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M7 information: Current Accept Proposal ID: 20 - Accepted Value: M5 - Status of Acceptor: PROMISE - Previous Acception: true
+
+M10 announced that it voted M5 for President
+M2 send proposal to M7
+
+M10 information: Current Accept Proposal ID: 19 - Accepted Value: M5 - Status of Acceptor: NO_PROMISE - Previous Acception: true
+
+M8 information: Current Accept Proposal ID: 19 - Accepted Value: M5 - Status of Acceptor: NO_PROMISE - Previous Acception: true
+
+M7 information: Current Accept Proposal ID: 20 - Accepted Value: M5 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M2 send proposal to M8
+
+M3 send proposal to M6
+
+M10 information: Current Accept Proposal ID: 19 - Accepted Value: M5 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M1 send proposal to M6
+
+M8 information: Current Accept Proposal ID: 19 - Accepted Value: M5 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M2 send proposal to M9
+
+M3 send proposal to M7
+
+M7 information: Current Accept Proposal ID: 21 - Accepted Value: M5 - Status of Acceptor: PROMISE - Previous Acception: true
+
+M10 information: Current Accept Proposal ID: 19 - Accepted Value: M5 - Status of Acceptor: REJECTED - Previous Acception: true
+
+M3 send proposal to M8
+
+M8 information: Current Accept Proposal ID: 19 - Accepted Value: M5 - Status of Acceptor: REJECTED - Previous Acception: true
+
+M3 send proposal to M9
+
+M10 information: Current Accept Proposal ID: 19 - Accepted Value: M5 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M7 information: Current Accept Proposal ID: 22 - Accepted Value: M5 - Status of Acceptor: PROMISE - Previous Acception: true
+
+M3 send proposal to M10
+
+M8 information: Current Accept Proposal ID: 20 - Accepted Value: M5 - Status of Acceptor: PROMISE - Previous Acception: true
+
+M10 information: Current Accept Proposal ID: 21 - Accepted Value: M5 - Status of Acceptor: PROMISE - Previous Acception: true
+
+M8 information: Current Accept Proposal ID: 20 - Accepted Value: M5 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M8 information: Current Accept Proposal ID: 21 - Accepted Value: M5 - Status of Acceptor: PROMISE - Previous Acception: true
+
+M6 information: Current Accept Proposal ID: 21 - Accepted Value: M5 - Status of Acceptor: PROMISE - Previous Acception: true
+
+M6 information: Current Accept Proposal ID: 22 - Accepted Value: M5 - Status of Acceptor: PROMISE - Previous Acception: true
+
+M3 send proposal to M6
+
+M4 send proposal to M8
+
+M2 send proposal to M10
+
+M9 information: Current Accept Proposal ID: 19 - Accepted Value: M5 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M1 send proposal to M7
+
+M3 send proposal to M7
+
+M6 announced that it voted M5 for President
+M4 send proposal to M9
+
+M7 information: Current Accept Proposal ID: 22 - Accepted Value: M5 - Status of Acceptor: REJECTED - Previous Acception: true
+
+M6 information: Current Accept Proposal ID: 22 - Accepted Value: M5 - Status of Acceptor: REJECTED - Previous Acception: true
+
+M7 announced that it voted M5 for President
+M1 send proposal to M8
+
+M3 send proposal to M8
+
+M9 information: Current Accept Proposal ID: 21 - Accepted Value: M5 - Status of Acceptor: PROMISE - Previous Acception: true
+
+M10 information: Current Accept Proposal ID: 21 - Accepted Value: M5 - Status of Acceptor: NO_PROMISE - Previous Acception: true
+
+M8 information: Current Accept Proposal ID: 22 - Accepted Value: M5 - Status of Acceptor: PROMISE - Previous Acception: true
+
+M4 send proposal to M10
+
+M3 send proposal to M9
+
+M1 send proposal to M9
+
+M10 announced that it voted M5 for President
+M3 send proposal to M10
+
+M9 information: Current Accept Proposal ID: 21 - Accepted Value: M5 - Status of Acceptor: NO_PROMISE - Previous Acception: true
+
+M8 announced that it voted M5 for President
+M8 information: Current Accept Proposal ID: 22 - Accepted Value: M5 - Status of Acceptor: REJECTED - Previous Acception: true
+
+M10 information: Current Accept Proposal ID: 21 - Accepted Value: M5 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M1 send proposal to M10
+
+M9 announced that it voted M5 for President
+M4 send proposal to M6
+
+M6 information: Current Accept Proposal ID: 22 - Accepted Value: M5 - Status of Acceptor: REJECTED - Previous Acception: true
+
+M9 information: Current Accept Proposal ID: 22 - Accepted Value: M5 - Status of Acceptor: PROMISE - Previous Acception: true
+
+M10 information: Current Accept Proposal ID: 22 - Accepted Value: M5 - Status of Acceptor: PROMISE - Previous Acception: true
+
+M4 send proposal to M7
+
+M7 information: Current Accept Proposal ID: 22 - Accepted Value: M5 - Status of Acceptor: REJECTED - Previous Acception: true
+
+M9 information: Current Accept Proposal ID: 22 - Accepted Value: M5 - Status of Acceptor: REJECTED - Previous Acception: true
+
+M3 send proposal to M6
+
+M6 information: Current Accept Proposal ID: 23 - Accepted Value: M5 - Status of Acceptor: PROMISE - Previous Acception: true
+
+M4 send proposal to M8
+
+M1 send proposal to M6
+
+M8 information: Current Accept Proposal ID: 22 - Accepted Value: M5 - Status of Acceptor: REJECTED - Previous Acception: true
+
+M3 send proposal to M7
+
+M7 information: Current Accept Proposal ID: 23 - Accepted Value: M5 - Status of Acceptor: PROMISE - Previous Acception: true
+
+M1 send proposal to M7
+
+M6 information: Current Accept Proposal ID: 23 - Accepted Value: M5 - Status of Acceptor: REJECTED - Previous Acception: true
+
+M4 send proposal to M9
+
+M3 send proposal to M8
+
+M9 information: Current Accept Proposal ID: 22 - Accepted Value: M5 - Status of Acceptor: REJECTED - Previous Acception: true
+
+M1 send proposal to M8
+
+M7 information: Current Accept Proposal ID: 23 - Accepted Value: M5 - Status of Acceptor: REJECTED - Previous Acception: true
+
+M3 send proposal to M9
+
+M1 send proposal to M9
+
+M8 information: Current Accept Proposal ID: 23 - Accepted Value: M5 - Status of Acceptor: PROMISE - Previous Acception: true
+
+M3 send proposal to M10
+
+M9 information: Current Accept Proposal ID: 23 - Accepted Value: M5 - Status of Acceptor: PROMISE - Previous Acception: true
+
+M1 send proposal to M10
+
+M4 send proposal to M10
+
+M10 information: Current Accept Proposal ID: 22 - Accepted Value: M5 - Status of Acceptor: REJECTED - Previous Acception: true
+
+M9 information: Current Accept Proposal ID: 23 - Accepted Value: M5 - Status of Acceptor: REJECTED - Previous Acception: true
+
+M10 information: Current Accept Proposal ID: 23 - Accepted Value: M5 - Status of Acceptor: PROMISE - Previous Acception: true
+
+M8 information: Current Accept Proposal ID: 23 - Accepted Value: M5 - Status of Acceptor: REJECTED - Previous Acception: true
+
+M10 information: Current Accept Proposal ID: 23 - Accepted Value: M5 - Status of Acceptor: REJECTED - Previous Acception: true
+
+M1 send proposal to M6
+
+M4 send proposal to M6
+
+M3 send proposal to M6
+
+M6 information: Current Accept Proposal ID: 24 - Accepted Value: M5 - Status of Acceptor: PROMISE - Previous Acception: true
+
+M1 send proposal to M7
+
+M7 information: Current Accept Proposal ID: 25 - Accepted Value: M5 - Status of Acceptor: PROMISE - Previous Acception: true
+
+M3 send proposal to M7
+
+M1 send proposal to M8
+
+M8 information: Current Accept Proposal ID: 25 - Accepted Value: M5 - Status of Acceptor: PROMISE - Previous Acception: true
+
+M6 information: Current Accept Proposal ID: 25 - Accepted Value: M5 - Status of Acceptor: PROMISE - Previous Acception: true
+
+M3 send proposal to M8
+
+M9 information: Current Accept Proposal ID: 25 - Accepted Value: M5 - Status of Acceptor: PROMISE - Previous Acception: true
+
+M7 information: Current Accept Proposal ID: 25 - Accepted Value: M5 - Status of Acceptor: NO_PROMISE - Previous Acception: true
+
+M3 send proposal to M9
+
+M8 information: Current Accept Proposal ID: 25 - Accepted Value: M5 - Status of Acceptor: REJECTED - Previous Acception: true
+
+M6 information: Current Accept Proposal ID: 25 - Accepted Value: M5 - Status of Acceptor: REJECTED - Previous Acception: true
+
+M9 information: Current Accept Proposal ID: 25 - Accepted Value: M5 - Status of Acceptor: REJECTED - Previous Acception: true
+
+M4 send proposal to M7
+
+M1 send proposal to M9
+
+M3 send proposal to M10
+
+M7 information: Current Accept Proposal ID: 25 - Accepted Value: M5 - Status of Acceptor: REJECTED - Previous Acception: true
+
+M10 information: Current Accept Proposal ID: 23 - Accepted Value: M5 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M1 send proposal to M10
+
+M8 information: Current Accept Proposal ID: 25 - Accepted Value: M5 - Status of Acceptor: NO_PROMISE - Previous Acception: true
+
+M10 information: Current Accept Proposal ID: 25 - Accepted Value: M5 - Status of Acceptor: PROMISE - Previous Acception: true
+
+M4 send proposal to M8
+
+M4 send proposal to M9
+
+M3 send proposal to M6
+
+M9 information: Current Accept Proposal ID: 25 - Accepted Value: M5 - Status of Acceptor: NO_PROMISE - Previous Acception: true
+
+M4 send proposal to M10
+
+M6 information: Current Accept Proposal ID: 26 - Accepted Value: M5 - Status of Acceptor: PROMISE - Previous Acception: true
+
+M10 information: Current Accept Proposal ID: 25 - Accepted Value: M5 - Status of Acceptor: NO_PROMISE - Previous Acception: true
+
+M1 send proposal to M6
+
+M3 send proposal to M7
+
+M1 send proposal to M7
+
+M7 information: Current Accept Proposal ID: 26 - Accepted Value: M5 - Status of Acceptor: PROMISE - Previous Acception: true
+
+M3 send proposal to M8
+
+M6 information: Current Accept Proposal ID: 26 - Accepted Value: M5 - Status of Acceptor: REJECTED - Previous Acception: true
+
+M1 send proposal to M8
+
+M3 send proposal to M9
+
+M1 send proposal to M9
+
+M7 information: Current Accept Proposal ID: 26 - Accepted Value: M5 - Status of Acceptor: REJECTED - Previous Acception: true
+
+M9 information: Current Accept Proposal ID: 26 - Accepted Value: M5 - Status of Acceptor: PROMISE - Previous Acception: true
+
+M3 send proposal to M10
+
+M1 send proposal to M10
+
+M10 information: Current Accept Proposal ID: 26 - Accepted Value: M5 - Status of Acceptor: PROMISE - Previous Acception: true
+
+M8 information: Current Accept Proposal ID: 26 - Accepted Value: M5 - Status of Acceptor: PROMISE - Previous Acception: true
+
+M9 information: Current Accept Proposal ID: 26 - Accepted Value: M5 - Status of Acceptor: REJECTED - Previous Acception: true
+
+M10 information: Current Accept Proposal ID: 26 - Accepted Value: M5 - Status of Acceptor: REJECTED - Previous Acception: true
+
+M8 information: Current Accept Proposal ID: 26 - Accepted Value: M5 - Status of Acceptor: REJECTED - Previous Acception: true
+
+M3 send proposal to M6
+
+M6 information: Current Accept Proposal ID: 26 - Accepted Value: M5 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M4 send proposal to M6
+
+M1 send proposal to M6
+
+M4 send proposal to M7
+
+M3 send proposal to M7
+
+M1 send proposal to M7
+
+M6 information: Current Accept Proposal ID: 27 - Accepted Value: M5 - Status of Acceptor: PROMISE - Previous Acception: true
+
+M4 send proposal to M8
+
+M8 information: Current Accept Proposal ID: 27 - Accepted Value: M5 - Status of Acceptor: PROMISE - Previous Acception: true
+
+M7 information: Current Accept Proposal ID: 26 - Accepted Value: M5 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M1 send proposal to M8
+
+M4 send proposal to M9
+
+M9 information: Current Accept Proposal ID: 27 - Accepted Value: M5 - Status of Acceptor: PROMISE - Previous Acception: true
+
+M1 send proposal to M9
+
+M6 information: Current Accept Proposal ID: 28 - Accepted Value: M5 - Status of Acceptor: PROMISE - Previous Acception: true
+
+M8 information: Current Accept Proposal ID: 28 - Accepted Value: M5 - Status of Acceptor: PROMISE - Previous Acception: true
+
+M7 information: Current Accept Proposal ID: 27 - Accepted Value: M5 - Status of Acceptor: PROMISE - Previous Acception: true
+
+M4 send proposal to M10
+
+M10 information: Current Accept Proposal ID: 27 - Accepted Value: M5 - Status of Acceptor: PROMISE - Previous Acception: true
+
+M1 send proposal to M10
+
+M9 information: Current Accept Proposal ID: 28 - Accepted Value: M5 - Status of Acceptor: PROMISE - Previous Acception: true
+
+M7 information: Current Accept Proposal ID: 28 - Accepted Value: M5 - Status of Acceptor: PROMISE - Previous Acception: true
+
+M3 send proposal to M8
+
+M8 information: Current Accept Proposal ID: 28 - Accepted Value: M5 - Status of Acceptor: REJECTED - Previous Acception: true
+
+M10 information: Current Accept Proposal ID: 28 - Accepted Value: M5 - Status of Acceptor: PROMISE - Previous Acception: true
+
+M3 send proposal to M9
+
+M3 send proposal to M10
+
+M9 information: Current Accept Proposal ID: 28 - Accepted Value: M5 - Status of Acceptor: REJECTED - Previous Acception: true
+
+M10 information: Current Accept Proposal ID: 28 - Accepted Value: M5 - Status of Acceptor: REJECTED - Previous Acception: true
+
+M4 send proposal to M6
+
+M6 information: Current Accept Proposal ID: 28 - Accepted Value: M5 - Status of Acceptor: REJECTED - Previous Acception: true
+
+M1 send proposal to M6
+
+M4 send proposal to M7
+
+M1 send proposal to M7
+
+M6 information: Current Accept Proposal ID: 28 - Accepted Value: M5 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M7 information: Current Accept Proposal ID: 28 - Accepted Value: M5 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M3 send proposal to M6
+
+M4 send proposal to M8
+
+M8 information: Current Accept Proposal ID: 28 - Accepted Value: M5 - Status of Acceptor: REJECTED - Previous Acception: true
+
+M1 send proposal to M8
+
+M3 send proposal to M7
+
+M6 information: Current Accept Proposal ID: 29 - Accepted Value: M5 - Status of Acceptor: PROMISE - Previous Acception: true
+
+M3 send proposal to M8
+
+M4 send proposal to M9
+
+M7 information: Current Accept Proposal ID: 28 - Accepted Value: M5 - Status of Acceptor: REJECTED - Previous Acception: true
+
+M1 send proposal to M9
+
+M9 information: Current Accept Proposal ID: 28 - Accepted Value: M5 - Status of Acceptor: REJECTED - Previous Acception: true
+
+M3 send proposal to M9
+
+M8 information: Current Accept Proposal ID: 28 - Accepted Value: M5 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M1 send proposal to M10
+
+M4 send proposal to M10
+
+M3 send proposal to M10
+
+M10 information: Current Accept Proposal ID: 28 - Accepted Value: M5 - Status of Acceptor: REJECTED - Previous Acception: true
+
+M8 information: Current Accept Proposal ID: 29 - Accepted Value: M5 - Status of Acceptor: PROMISE - Previous Acception: true
+
+M7 information: Current Accept Proposal ID: 29 - Accepted Value: M5 - Status of Acceptor: PROMISE - Previous Acception: true
+
+M10 information: Current Accept Proposal ID: 28 - Accepted Value: M5 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M9 information: Current Accept Proposal ID: 28 - Accepted Value: M5 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M9 information: Current Accept Proposal ID: 29 - Accepted Value: M5 - Status of Acceptor: PROMISE - Previous Acception: true
+
+M10 information: Current Accept Proposal ID: 29 - Accepted Value: M5 - Status of Acceptor: PROMISE - Previous Acception: true
+
+M1 send proposal to M6
+
+M6 information: Current Accept Proposal ID: 29 - Accepted Value: M5 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M4 send proposal to M6
+
+M3 send proposal to M6
+
+M4 send proposal to M7
+
+M1 send proposal to M7
+
+M7 information: Current Accept Proposal ID: 29 - Accepted Value: M5 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M3 send proposal to M7
+
+M6 information: Current Accept Proposal ID: 30 - Accepted Value: M5 - Status of Acceptor: PROMISE - Previous Acception: true
+
+M4 send proposal to M8
+
+M8 information: Current Accept Proposal ID: 30 - Accepted Value: M5 - Status of Acceptor: PROMISE - Previous Acception: true
+
+M1 send proposal to M8
+
+M3 send proposal to M8
+
+M4 send proposal to M9
+
+M9 information: Current Accept Proposal ID: 30 - Accepted Value: M5 - Status of Acceptor: PROMISE - Previous Acception: true
+
+M3 send proposal to M9
+
+M7 information: Current Accept Proposal ID: 30 - Accepted Value: M5 - Status of Acceptor: PROMISE - Previous Acception: true
+
+M1 send proposal to M9
+
+M6 information: Current Accept Proposal ID: 30 - Accepted Value: M5 - Status of Acceptor: REJECTED - Previous Acception: true
+
+M8 information: Current Accept Proposal ID: 30 - Accepted Value: M5 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M3 send proposal to M10
+
+M10 information: Current Accept Proposal ID: 29 - Accepted Value: M5 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M1 send proposal to M10
+
+M4 send proposal to M10
+
+M7 information: Current Accept Proposal ID: 30 - Accepted Value: M5 - Status of Acceptor: REJECTED - Previous Acception: true
+
+M9 information: Current Accept Proposal ID: 30 - Accepted Value: M5 - Status of Acceptor: REJECTED - Previous Acception: true
+
+M8 information: Current Accept Proposal ID: 30 - Accepted Value: M5 - Status of Acceptor: REJECTED - Previous Acception: true
+
+M10 information: Current Accept Proposal ID: 30 - Accepted Value: M5 - Status of Acceptor: PROMISE - Previous Acception: true
+
+M6 announced that it voted M5 for President
+M9 information: Current Accept Proposal ID: 30 - Accepted Value: M5 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M7 announced that it voted M5 for President
+M8 announced that it voted M5 for President
+M10 information: Current Accept Proposal ID: 30 - Accepted Value: M5 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M9 announced that it voted M5 for President
+M4 send proposal to M6
+
+M6 information: Current Accept Proposal ID: 30 - Accepted Value: M5 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M3 send proposal to M6
+
+M4 send proposal to M7
+
+M10 announced that it voted M5 for President
+M7 information: Current Accept Proposal ID: 30 - Accepted Value: M5 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M3 send proposal to M7
+
+M6 information: Current Accept Proposal ID: 31 - Accepted Value: M5 - Status of Acceptor: PROMISE - Previous Acception: true
+
+M4 send proposal to M8
+
+M8 information: Current Accept Proposal ID: 30 - Accepted Value: M5 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M3 send proposal to M8
+
+M7 information: Current Accept Proposal ID: 31 - Accepted Value: M5 - Status of Acceptor: PROMISE - Previous Acception: true
+
+M3 send proposal to M9
+
+M4 send proposal to M9
+
+M9 information: Current Accept Proposal ID: 30 - Accepted Value: M5 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M8 information: Current Accept Proposal ID: 31 - Accepted Value: M5 - Status of Acceptor: PROMISE - Previous Acception: true
+
+M3 send proposal to M10
+
+M10 information: Current Accept Proposal ID: 31 - Accepted Value: M5 - Status of Acceptor: PROMISE - Previous Acception: true
+
+M4 send proposal to M10
+
+M9 information: Current Accept Proposal ID: 31 - Accepted Value: M5 - Status of Acceptor: PROMISE - Previous Acception: true
+
+M10 information: Current Accept Proposal ID: 31 - Accepted Value: M5 - Status of Acceptor: REJECTED - Previous Acception: true
+
+M4 send proposal to M6
+
+M6 information: Current Accept Proposal ID: 31 - Accepted Value: M5 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M3 send proposal to M6
+
+M4 send proposal to M7
+
+M7 information: Current Accept Proposal ID: 31 - Accepted Value: M5 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M3 send proposal to M7
+
+M4 send proposal to M8
+
+M3 send proposal to M8
+
+M6 information: Current Accept Proposal ID: 31 - Accepted Value: M5 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M8 information: Current Accept Proposal ID: 31 - Accepted Value: M5 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M3 send proposal to M9
+
+M7 information: Current Accept Proposal ID: 31 - Accepted Value: M5 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M9 information: Current Accept Proposal ID: 31 - Accepted Value: M5 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M4 send proposal to M9
+
+M3 send proposal to M10
+
+M8 information: Current Accept Proposal ID: 31 - Accepted Value: M5 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M10 information: Current Accept Proposal ID: 31 - Accepted Value: M5 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M4 send proposal to M10
+
+M9 information: Current Accept Proposal ID: 31 - Accepted Value: M5 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M10 information: Current Accept Proposal ID: 31 - Accepted Value: M5 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M6 announced that it voted M5 for President
+M7 announced that it voted M5 for President
+M8 announced that it voted M5 for President
+M3 send proposal to M6
+
+M6 information: Current Accept Proposal ID: 31 - Accepted Value: M5 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M9 announced that it voted M5 for President
+M10 announced that it voted M5 for President
+M3 send proposal to M7
+
+M7 information: Current Accept Proposal ID: 31 - Accepted Value: M5 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M3 send proposal to M8
+
+M8 information: Current Accept Proposal ID: 31 - Accepted Value: M5 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M3 send proposal to M9
+
+M9 information: Current Accept Proposal ID: 31 - Accepted Value: M5 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M3 send proposal to M10
+
+M10 information: Current Accept Proposal ID: 31 - Accepted Value: M5 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M6 announced that it voted M5 for President
+M7 announced that it voted M5 for President
+M8 announced that it voted M5 for President
+M9 announced that it voted M5 for President
+M10 announced that it voted M5 for President

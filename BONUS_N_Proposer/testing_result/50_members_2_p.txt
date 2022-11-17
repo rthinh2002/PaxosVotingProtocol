@@ -1,0 +1,1782 @@
+====== Election is Beginning ======
+====== There are 2 proposers and 48 acceptors ======
+====== Delay in response time: immediately ======
+Members that disconnect: 0
+M1 running on port number: 4589
+M2 running on port number: 4590
+M3 running on port number: 4591
+M4 running on port number: 4592
+M5 running on port number: 4593
+M6 running on port number: 4594
+M7 running on port number: 4595
+M8 running on port number: 4596
+M9 running on port number: 4597
+M10 running on port number: 4598
+M11 running on port number: 4599
+M12 running on port number: 4600
+M13 running on port number: 4601
+M14 running on port number: 4602
+M15 running on port number: 4603
+M16 running on port number: 4604
+M17 running on port number: 4605
+M18 running on port number: 4606
+M19 running on port number: 4607
+M20 running on port number: 4608
+M21 running on port number: 4609
+M22 running on port number: 4610
+M23 running on port number: 4611
+M24 running on port number: 4612
+M25 running on port number: 4613
+M26 running on port number: 4614
+M27 running on port number: 4615
+M28 running on port number: 4616
+M29 running on port number: 4617
+M30 running on port number: 4618
+M31 running on port number: 4619
+M32 running on port number: 4620
+M33 running on port number: 4621
+M34 running on port number: 4622
+M35 running on port number: 4623
+M36 running on port number: 4624
+M37 running on port number: 4625
+M38 running on port number: 4626
+M39 running on port number: 4627
+M40 running on port number: 4628
+M41 running on port number: 4629
+M42 running on port number: 4630
+M43 running on port number: 4631
+M44 running on port number: 4632
+M45 running on port number: 4633
+M46 running on port number: 4634
+M47 running on port number: 4635
+M48 running on port number: 4636
+M49 running on port number: 4637
+M50 running on port number: 4638
+M1 send proposal to M3
+
+M1 send proposal to M4
+
+M1 send proposal to M5
+
+M1 send proposal to M6
+
+M1 send proposal to M7
+
+M1 send proposal to M8
+
+M1 send proposal to M9
+
+M1 send proposal to M10
+
+M1 send proposal to M11
+
+M1 send proposal to M12
+
+M1 send proposal to M13
+
+M1 send proposal to M14
+
+M1 send proposal to M15
+
+M1 send proposal to M16
+
+M1 send proposal to M17
+
+M1 send proposal to M18
+
+M1 send proposal to M19
+
+M1 send proposal to M20
+
+M1 send proposal to M21
+
+M1 send proposal to M22
+
+M1 send proposal to M23
+
+M1 send proposal to M24
+
+M1 send proposal to M25
+
+M24 information: Current Accept Proposal ID: 1 - Accepted Value:  - Status of Acceptor: PROMISE - Previous Acception: false
+
+M21 information: Current Accept Proposal ID: 1 - Accepted Value:  - Status of Acceptor: PROMISE - Previous Acception: false
+
+M22 information: Current Accept Proposal ID: 1 - Accepted Value:  - Status of Acceptor: PROMISE - Previous Acception: false
+
+M23 information: Current Accept Proposal ID: 1 - Accepted Value:  - Status of Acceptor: PROMISE - Previous Acception: false
+
+M26 information: Current Accept Proposal ID: 1 - Accepted Value:  - Status of Acceptor: PROMISE - Previous Acception: false
+
+M3 information: Current Accept Proposal ID: 1 - Accepted Value:  - Status of Acceptor: PROMISE - Previous Acception: false
+
+M13 information: Current Accept Proposal ID: 1 - Accepted Value:  - Status of Acceptor: PROMISE - Previous Acception: false
+
+M14 information: Current Accept Proposal ID: 1 - Accepted Value:  - Status of Acceptor: PROMISE - Previous Acception: false
+
+M15 information: Current Accept Proposal ID: 1 - Accepted Value:  - Status of Acceptor: PROMISE - Previous Acception: false
+
+M17 information: Current Accept Proposal ID: 1 - Accepted Value:  - Status of Acceptor: PROMISE - Previous Acception: false
+
+M16 information: Current Accept Proposal ID: 1 - Accepted Value:  - Status of Acceptor: PROMISE - Previous Acception: false
+
+M6 information: Current Accept Proposal ID: 1 - Accepted Value:  - Status of Acceptor: PROMISE - Previous Acception: false
+
+M18 information: Current Accept Proposal ID: 1 - Accepted Value:  - Status of Acceptor: PROMISE - Previous Acception: false
+
+M19 information: Current Accept Proposal ID: 1 - Accepted Value:  - Status of Acceptor: PROMISE - Previous Acception: false
+
+M25 information: Current Accept Proposal ID: 1 - Accepted Value:  - Status of Acceptor: PROMISE - Previous Acception: false
+
+M1 send proposal to M26
+
+M20 information: Current Accept Proposal ID: 1 - Accepted Value:  - Status of Acceptor: PROMISE - Previous Acception: false
+
+M4 information: Current Accept Proposal ID: 1 - Accepted Value:  - Status of Acceptor: PROMISE - Previous Acception: false
+
+M7 information: Current Accept Proposal ID: 1 - Accepted Value:  - Status of Acceptor: PROMISE - Previous Acception: false
+
+M1 send proposal to M27
+
+M27 information: Current Accept Proposal ID: 1 - Accepted Value:  - Status of Acceptor: PROMISE - Previous Acception: false
+
+M5 information: Current Accept Proposal ID: 1 - Accepted Value:  - Status of Acceptor: PROMISE - Previous Acception: false
+
+M8 information: Current Accept Proposal ID: 1 - Accepted Value:  - Status of Acceptor: PROMISE - Previous Acception: false
+
+M10 information: Current Accept Proposal ID: 1 - Accepted Value:  - Status of Acceptor: PROMISE - Previous Acception: false
+
+M9 information: Current Accept Proposal ID: 1 - Accepted Value:  - Status of Acceptor: PROMISE - Previous Acception: false
+
+M11 information: Current Accept Proposal ID: 1 - Accepted Value:  - Status of Acceptor: PROMISE - Previous Acception: false
+
+M28 information: Current Accept Proposal ID: 1 - Accepted Value:  - Status of Acceptor: PROMISE - Previous Acception: false
+
+M12 information: Current Accept Proposal ID: 1 - Accepted Value:  - Status of Acceptor: PROMISE - Previous Acception: false
+
+M1 send proposal to M28
+
+M1 send proposal to M29
+
+M29 information: Current Accept Proposal ID: 1 - Accepted Value:  - Status of Acceptor: PROMISE - Previous Acception: false
+
+M1 send proposal to M30
+
+M30 information: Current Accept Proposal ID: 1 - Accepted Value:  - Status of Acceptor: PROMISE - Previous Acception: false
+
+M1 send proposal to M31
+
+M31 information: Current Accept Proposal ID: 1 - Accepted Value:  - Status of Acceptor: PROMISE - Previous Acception: false
+
+M1 send proposal to M32
+
+M32 information: Current Accept Proposal ID: 1 - Accepted Value:  - Status of Acceptor: PROMISE - Previous Acception: false
+
+M1 send proposal to M33
+
+M33 information: Current Accept Proposal ID: 1 - Accepted Value:  - Status of Acceptor: PROMISE - Previous Acception: false
+
+M1 send proposal to M34
+
+M34 information: Current Accept Proposal ID: 1 - Accepted Value:  - Status of Acceptor: PROMISE - Previous Acception: false
+
+M1 send proposal to M35
+
+M35 information: Current Accept Proposal ID: 1 - Accepted Value:  - Status of Acceptor: PROMISE - Previous Acception: false
+
+M1 send proposal to M36
+
+M36 information: Current Accept Proposal ID: 1 - Accepted Value:  - Status of Acceptor: PROMISE - Previous Acception: false
+
+M1 send proposal to M37
+
+M37 information: Current Accept Proposal ID: 1 - Accepted Value:  - Status of Acceptor: PROMISE - Previous Acception: false
+
+M1 send proposal to M38
+
+M38 information: Current Accept Proposal ID: 1 - Accepted Value:  - Status of Acceptor: PROMISE - Previous Acception: false
+
+M1 send proposal to M39
+
+M39 information: Current Accept Proposal ID: 1 - Accepted Value:  - Status of Acceptor: PROMISE - Previous Acception: false
+
+M1 send proposal to M40
+
+M1 send proposal to M3
+
+M40 information: Current Accept Proposal ID: 1 - Accepted Value:  - Status of Acceptor: PROMISE - Previous Acception: false
+
+M1 send proposal to M41
+
+M3 information: Current Accept Proposal ID: 1 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M41 information: Current Accept Proposal ID: 1 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M1 send proposal to M4
+
+M4 information: Current Accept Proposal ID: 1 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M1 send proposal to M42
+
+M1 send proposal to M5
+
+M42 information: Current Accept Proposal ID: 1 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M5 information: Current Accept Proposal ID: 1 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M1 send proposal to M43
+
+M1 send proposal to M6
+
+M6 information: Current Accept Proposal ID: 1 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M1 send proposal to M44
+
+M43 information: Current Accept Proposal ID: 1 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M44 information: Current Accept Proposal ID: 1 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M1 send proposal to M45
+
+M1 send proposal to M7
+
+M7 information: Current Accept Proposal ID: 1 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M45 information: Current Accept Proposal ID: 1 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M1 send proposal to M46
+
+M1 send proposal to M8
+
+M8 information: Current Accept Proposal ID: 1 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M46 information: Current Accept Proposal ID: 1 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M1 send proposal to M47
+
+M47 information: Current Accept Proposal ID: 1 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M1 send proposal to M9
+
+M1 send proposal to M48
+
+M9 information: Current Accept Proposal ID: 1 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M48 information: Current Accept Proposal ID: 1 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M1 send proposal to M10
+
+M10 information: Current Accept Proposal ID: 1 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M1 send proposal to M49
+
+M1 send proposal to M11
+
+M49 information: Current Accept Proposal ID: 1 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M11 information: Current Accept Proposal ID: 1 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M1 send proposal to M50
+
+M50 information: Current Accept Proposal ID: 1 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M1 send proposal to M12
+
+M2 send proposal to M3
+
+M12 information: Current Accept Proposal ID: 1 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M3 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: PROMISE - Previous Acception: true
+
+M1 send proposal to M13
+
+M2 send proposal to M4
+
+M13 information: Current Accept Proposal ID: 1 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M4 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: PROMISE - Previous Acception: true
+
+M1 send proposal to M14
+
+M2 send proposal to M5
+
+M5 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: PROMISE - Previous Acception: true
+
+M1 send proposal to M15
+
+M15 information: Current Accept Proposal ID: 1 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M1 send proposal to M16
+
+M16 information: Current Accept Proposal ID: 1 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M1 send proposal to M17
+
+M17 information: Current Accept Proposal ID: 1 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M1 send proposal to M18
+
+M18 information: Current Accept Proposal ID: 1 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M1 send proposal to M19
+
+M19 information: Current Accept Proposal ID: 1 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M1 send proposal to M20
+
+M14 information: Current Accept Proposal ID: 1 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M2 send proposal to M6
+
+M20 information: Current Accept Proposal ID: 1 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M6 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: PROMISE - Previous Acception: true
+
+M1 send proposal to M21
+
+M21 information: Current Accept Proposal ID: 1 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M2 send proposal to M7
+
+M7 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: PROMISE - Previous Acception: true
+
+M1 send proposal to M22
+
+M22 information: Current Accept Proposal ID: 1 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M2 send proposal to M8
+
+M8 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: PROMISE - Previous Acception: true
+
+M1 send proposal to M23
+
+M2 send proposal to M9
+
+M23 information: Current Accept Proposal ID: 1 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M9 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: PROMISE - Previous Acception: true
+
+M1 send proposal to M24
+
+M2 send proposal to M10
+
+M24 information: Current Accept Proposal ID: 1 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M10 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: PROMISE - Previous Acception: true
+
+M2 send proposal to M11
+
+M1 send proposal to M25
+
+M11 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: PROMISE - Previous Acception: true
+
+M25 information: Current Accept Proposal ID: 1 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M2 send proposal to M12
+
+M12 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: PROMISE - Previous Acception: true
+
+M1 send proposal to M26
+
+M26 information: Current Accept Proposal ID: 1 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M2 send proposal to M13
+
+M13 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: PROMISE - Previous Acception: true
+
+M1 send proposal to M27
+
+M2 send proposal to M14
+
+M27 information: Current Accept Proposal ID: 1 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M14 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: PROMISE - Previous Acception: true
+
+M1 send proposal to M28
+
+M28 information: Current Accept Proposal ID: 1 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M2 send proposal to M15
+
+M15 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: PROMISE - Previous Acception: true
+
+M1 send proposal to M29
+
+M2 send proposal to M16
+
+M29 information: Current Accept Proposal ID: 1 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M16 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: PROMISE - Previous Acception: true
+
+M2 send proposal to M17
+
+M17 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: PROMISE - Previous Acception: true
+
+M1 send proposal to M30
+
+M2 send proposal to M18
+
+M30 information: Current Accept Proposal ID: 1 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M18 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: PROMISE - Previous Acception: true
+
+M1 send proposal to M31
+
+M2 send proposal to M19
+
+M31 information: Current Accept Proposal ID: 1 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M19 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: PROMISE - Previous Acception: true
+
+M2 send proposal to M20
+
+M1 send proposal to M32
+
+M20 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: PROMISE - Previous Acception: true
+
+M32 information: Current Accept Proposal ID: 1 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M2 send proposal to M21
+
+M21 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: PROMISE - Previous Acception: true
+
+M2 send proposal to M22
+
+M22 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: PROMISE - Previous Acception: true
+
+M2 send proposal to M23
+
+M1 send proposal to M33
+
+M33 information: Current Accept Proposal ID: 1 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M23 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: PROMISE - Previous Acception: true
+
+M2 send proposal to M24
+
+M24 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: PROMISE - Previous Acception: true
+
+M1 send proposal to M34
+
+M2 send proposal to M25
+
+M34 information: Current Accept Proposal ID: 1 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M25 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: PROMISE - Previous Acception: true
+
+M1 send proposal to M35
+
+M2 send proposal to M26
+
+M26 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: PROMISE - Previous Acception: true
+
+M35 information: Current Accept Proposal ID: 1 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M2 send proposal to M27
+
+M27 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: PROMISE - Previous Acception: true
+
+M1 send proposal to M36
+
+M36 information: Current Accept Proposal ID: 1 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M2 send proposal to M28
+
+M28 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: PROMISE - Previous Acception: true
+
+M1 send proposal to M37
+
+M37 information: Current Accept Proposal ID: 1 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M2 send proposal to M29
+
+M29 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: PROMISE - Previous Acception: true
+
+M2 send proposal to M3
+
+M1 send proposal to M38
+
+M38 information: Current Accept Proposal ID: 1 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M3 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M2 send proposal to M30
+
+M30 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M2 send proposal to M31
+
+M4 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M1 send proposal to M39
+
+M31 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M39 information: Current Accept Proposal ID: 1 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M2 send proposal to M32
+
+M32 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M2 send proposal to M4
+
+M1 send proposal to M40
+
+M2 send proposal to M33
+
+M40 information: Current Accept Proposal ID: 1 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M2 send proposal to M5
+
+M5 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M2 send proposal to M34
+
+M1 send proposal to M41
+
+M2 send proposal to M6
+
+M6 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M41 information: Current Accept Proposal ID: 1 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M2 send proposal to M35
+
+M1 send proposal to M42
+
+M42 information: Current Accept Proposal ID: 1 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M2 send proposal to M7
+
+M7 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M2 send proposal to M36
+
+M1 send proposal to M43
+
+M43 information: Current Accept Proposal ID: 1 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M2 send proposal to M8
+
+M2 send proposal to M37
+
+M8 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M2 send proposal to M9
+
+M2 send proposal to M38
+
+M9 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M44 information: Current Accept Proposal ID: 1 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M2 send proposal to M10
+
+M1 send proposal to M44
+
+M10 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M2 send proposal to M39
+
+M2 send proposal to M11
+
+M11 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M1 send proposal to M45
+
+M2 send proposal to M40
+
+M45 information: Current Accept Proposal ID: 1 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M2 send proposal to M12
+
+M1 send proposal to M46
+
+M12 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M46 information: Current Accept Proposal ID: 1 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M2 send proposal to M41
+
+M2 send proposal to M13
+
+M13 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M2 send proposal to M42
+
+M1 send proposal to M47
+
+M47 information: Current Accept Proposal ID: 1 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M2 send proposal to M14
+
+M2 send proposal to M43
+
+M14 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M1 send proposal to M48
+
+M2 send proposal to M15
+
+M48 information: Current Accept Proposal ID: 1 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M15 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M2 send proposal to M44
+
+M2 send proposal to M16
+
+M1 send proposal to M49
+
+M2 send proposal to M45
+
+M16 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M49 information: Current Accept Proposal ID: 1 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M2 send proposal to M17
+
+M2 send proposal to M46
+
+M17 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M1 send proposal to M50
+
+M50 information: Current Accept Proposal ID: 1 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M2 send proposal to M18
+
+M18 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M2 send proposal to M47
+
+M2 send proposal to M19
+
+M19 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M2 send proposal to M48
+
+M2 send proposal to M20
+
+M20 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M2 send proposal to M49
+
+M2 send proposal to M21
+
+M2 send proposal to M50
+
+M21 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M50 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M2 send proposal to M22
+
+M22 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M2 send proposal to M23
+
+M23 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M2 send proposal to M24
+
+M24 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M2 send proposal to M25
+
+M25 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M2 send proposal to M26
+
+M26 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M2 send proposal to M27
+
+M27 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M2 send proposal to M28
+
+M28 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M2 send proposal to M29
+
+M29 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M2 send proposal to M30
+
+M30 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M2 send proposal to M31
+
+M31 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M2 send proposal to M32
+
+M32 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M2 send proposal to M33
+
+M2 send proposal to M34
+
+M2 send proposal to M35
+
+M2 send proposal to M36
+
+M2 send proposal to M37
+
+M2 send proposal to M38
+
+M2 send proposal to M39
+
+M2 send proposal to M40
+
+M2 send proposal to M41
+
+M2 send proposal to M42
+
+M2 send proposal to M43
+
+M2 send proposal to M44
+
+M2 send proposal to M45
+
+M1 send proposal to M3
+
+M2 send proposal to M46
+
+M3 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M1 send proposal to M4
+
+M2 send proposal to M47
+
+M4 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M1 send proposal to M5
+
+M2 send proposal to M48
+
+M5 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M1 send proposal to M6
+
+M2 send proposal to M49
+
+M6 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M1 send proposal to M7
+
+M2 send proposal to M50
+
+M7 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M50 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M1 send proposal to M8
+
+M8 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M1 send proposal to M9
+
+M9 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M1 send proposal to M10
+
+M1 send proposal to M11
+
+M11 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M1 send proposal to M12
+
+M1 send proposal to M13
+
+M1 send proposal to M14
+
+M1 send proposal to M15
+
+M1 send proposal to M16
+
+M1 send proposal to M17
+
+M1 send proposal to M18
+
+M1 send proposal to M19
+
+M1 send proposal to M20
+
+M1 send proposal to M21
+
+M1 send proposal to M22
+
+M1 send proposal to M23
+
+M1 send proposal to M24
+
+M1 send proposal to M25
+
+M1 send proposal to M26
+
+M1 send proposal to M27
+
+M1 send proposal to M28
+
+M1 send proposal to M29
+
+M1 send proposal to M30
+
+M1 send proposal to M31
+
+M1 send proposal to M32
+
+M1 send proposal to M33
+
+M1 send proposal to M34
+
+M1 send proposal to M35
+
+M1 send proposal to M36
+
+M1 send proposal to M37
+
+M1 send proposal to M38
+
+M1 send proposal to M39
+
+M1 send proposal to M40
+
+M1 send proposal to M41
+
+M1 send proposal to M42
+
+M1 send proposal to M43
+
+M1 send proposal to M44
+
+M1 send proposal to M45
+
+M1 send proposal to M46
+
+M1 send proposal to M47
+
+M23 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M31 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M15 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M25 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M20 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M10 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M22 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M27 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M29 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M17 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M13 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M32 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M12 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M28 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M21 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M18 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M19 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M14 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M30 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M16 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M26 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M1 send proposal to M48
+
+M24 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M1 send proposal to M49
+
+M1 send proposal to M50
+
+M50 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M2 send proposal to M3
+
+M3 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M2 send proposal to M4
+
+M3 announced that it voted M1 for President
+M4 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M4 announced that it voted M1 for President
+M2 send proposal to M5
+
+M5 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M5 announced that it voted M1 for President
+M2 send proposal to M6
+
+M6 announced that it voted M1 for President
+M6 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M7 announced that it voted M1 for President
+M2 send proposal to M7
+
+M7 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M8 announced that it voted M1 for President
+M2 send proposal to M8
+
+M8 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M9 announced that it voted M1 for President
+M2 send proposal to M9
+
+M9 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M2 send proposal to M10
+
+M10 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M23 announced that it voted M1 for President
+M2 send proposal to M11
+
+M11 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M31 announced that it voted M1 for President
+M2 send proposal to M12
+
+M12 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M11 announced that it voted M1 for President
+M2 send proposal to M13
+
+M13 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M15 announced that it voted M1 for President
+M2 send proposal to M14
+
+M14 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M25 announced that it voted M1 for President
+M2 send proposal to M15
+
+M20 announced that it voted M1 for President
+M15 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M10 announced that it voted M1 for President
+M2 send proposal to M16
+
+M16 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M22 announced that it voted M1 for President
+M2 send proposal to M17
+
+M17 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M27 announced that it voted M1 for President
+M29 announced that it voted M1 for President
+M18 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M2 send proposal to M18
+
+M17 announced that it voted M1 for President
+M13 announced that it voted M1 for President
+M2 send proposal to M19
+
+M19 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M32 announced that it voted M1 for President
+M2 send proposal to M20
+
+M12 announced that it voted M1 for President
+M20 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M28 announced that it voted M1 for President
+M2 send proposal to M21
+
+M21 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M21 announced that it voted M1 for President
+M2 send proposal to M22
+
+M22 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M19 announced that it voted M1 for President
+M2 send proposal to M23
+
+M23 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M18 announced that it voted M1 for President
+M14 announced that it voted M1 for President
+M2 send proposal to M24
+
+M24 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M30 announced that it voted M1 for President
+M2 send proposal to M25
+
+M16 announced that it voted M1 for President
+M25 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M26 announced that it voted M1 for President
+M2 send proposal to M26
+
+M26 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M24 announced that it voted M1 for President
+M2 send proposal to M27
+
+M27 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M50 announced that it voted M1 for President
+M2 send proposal to M28
+
+M28 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M2 send proposal to M29
+
+M29 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M2 send proposal to M30
+
+M30 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M2 send proposal to M31
+
+M31 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M2 send proposal to M32
+
+M32 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M2 send proposal to M33
+
+M2 send proposal to M34
+
+M2 send proposal to M35
+
+M2 send proposal to M36
+
+M2 send proposal to M37
+
+M2 send proposal to M38
+
+M2 send proposal to M39
+
+M2 send proposal to M40
+
+M2 send proposal to M41
+
+M2 send proposal to M42
+
+M2 send proposal to M43
+
+M2 send proposal to M44
+
+M2 send proposal to M45
+
+M2 send proposal to M46
+
+M2 send proposal to M47
+
+M2 send proposal to M48
+
+M2 send proposal to M49
+
+M2 send proposal to M50
+
+M50 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M3 announced that it voted M1 for President
+M4 announced that it voted M1 for President
+M5 announced that it voted M1 for President
+M6 announced that it voted M1 for President
+M7 announced that it voted M1 for President
+M8 announced that it voted M1 for President
+M9 announced that it voted M1 for President
+M10 announced that it voted M1 for President
+M11 announced that it voted M1 for President
+M12 announced that it voted M1 for President
+M13 announced that it voted M1 for President
+M14 announced that it voted M1 for President
+M15 announced that it voted M1 for President
+M16 announced that it voted M1 for President
+M17 announced that it voted M1 for President
+M18 announced that it voted M1 for President
+M19 announced that it voted M1 for President
+M20 announced that it voted M1 for President
+M21 announced that it voted M1 for President
+M22 announced that it voted M1 for President
+M23 announced that it voted M1 for President
+M24 announced that it voted M1 for President
+M25 announced that it voted M1 for President
+M26 announced that it voted M1 for President
+M27 announced that it voted M1 for President
+M28 announced that it voted M1 for President
+M29 announced that it voted M1 for President
+M30 announced that it voted M1 for President
+M31 announced that it voted M1 for President
+M32 announced that it voted M1 for President
+M50 announced that it voted M1 for President
+M36 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M33 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M37 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M34 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M35 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M36 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M33 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M38 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M41 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M39 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M40 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M37 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M44 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M45 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M43 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M49 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M40 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M46 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M37 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M33 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M44 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M47 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M43 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M1 send proposal to M3
+
+M40 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M46 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M37 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M33 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M44 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M41 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M40 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M4 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M45 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M46 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M42 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M34 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M48 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M47 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M44 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M1 send proposal to M4
+
+M36 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M41 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M46 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M43 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M47 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M35 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M39 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M5 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M47 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M45 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M38 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M1 send proposal to M5
+
+M35 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M39 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M1 send proposal to M6
+
+M6 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M3 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M41 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M38 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M49 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M1 send proposal to M7
+
+M39 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M7 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M45 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M38 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M8 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M1 send proposal to M8
+
+M49 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M43 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M36 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M34 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M1 send proposal to M9
+
+M48 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M42 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: ACCEPTED - Previous Acception: true
+
+M35 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M9 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M2 send proposal to M3
+
+M1 send proposal to M10
+
+M3 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M42 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M48 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M4 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M10 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M49 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M1 send proposal to M11
+
+M11 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M2 send proposal to M4
+
+M34 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M42 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M48 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M2 send proposal to M5
+
+M2 send proposal to M6
+
+M6 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M2 send proposal to M7
+
+M2 send proposal to M8
+
+M8 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M2 send proposal to M9
+
+M2 send proposal to M10
+
+M2 send proposal to M11
+
+M2 send proposal to M12
+
+M2 send proposal to M13
+
+M2 send proposal to M14
+
+M2 send proposal to M15
+
+M2 send proposal to M16
+
+M2 send proposal to M17
+
+M2 send proposal to M18
+
+M2 send proposal to M19
+
+M2 send proposal to M20
+
+M2 send proposal to M21
+
+M2 send proposal to M22
+
+M2 send proposal to M23
+
+M2 send proposal to M24
+
+M2 send proposal to M25
+
+M2 send proposal to M26
+
+M2 send proposal to M27
+
+M2 send proposal to M28
+
+M2 send proposal to M29
+
+M2 send proposal to M30
+
+M2 send proposal to M31
+
+M2 send proposal to M32
+
+M2 send proposal to M33
+
+M2 send proposal to M34
+
+M2 send proposal to M35
+
+M2 send proposal to M36
+
+M2 send proposal to M37
+
+M2 send proposal to M38
+
+M2 send proposal to M39
+
+M2 send proposal to M40
+
+M2 send proposal to M41
+
+M2 send proposal to M42
+
+M2 send proposal to M43
+
+M2 send proposal to M44
+
+M2 send proposal to M45
+
+M2 send proposal to M46
+
+M2 send proposal to M47
+
+M2 send proposal to M48
+
+M2 send proposal to M49
+
+M2 send proposal to M50
+
+M14 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M45 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M25 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M28 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M40 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M47 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M17 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M5 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M37 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M38 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M15 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M16 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M19 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M32 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M46 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M48 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M22 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M7 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M31 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M42 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M35 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M36 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M29 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M44 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M39 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M49 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M13 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M1 send proposal to M12
+
+M10 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M30 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M41 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M12 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M26 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M1 send proposal to M13
+
+M18 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M37 announced that it voted M1 for President
+M20 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M9 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M23 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M14 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M24 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M43 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M21 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M27 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M11 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M50 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M33 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M34 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M33 announced that it voted M1 for President
+M1 send proposal to M14
+
+M40 announced that it voted M1 for President
+M1 send proposal to M15
+
+M15 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M1 send proposal to M16
+
+M16 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M1 send proposal to M17
+
+M17 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M1 send proposal to M18
+
+M18 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M1 send proposal to M19
+
+M19 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M44 announced that it voted M1 for President
+M1 send proposal to M20
+
+M46 announced that it voted M1 for President
+M1 send proposal to M21
+
+M47 announced that it voted M1 for President
+M1 send proposal to M22
+
+M22 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M41 announced that it voted M1 for President
+M1 send proposal to M23
+
+M39 announced that it voted M1 for President
+M1 send proposal to M24
+
+M45 announced that it voted M1 for President
+M1 send proposal to M25
+
+M38 announced that it voted M1 for President
+M25 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M43 announced that it voted M1 for President
+M1 send proposal to M26
+
+M36 announced that it voted M1 for President
+M1 send proposal to M27
+
+M35 announced that it voted M1 for President
+M1 send proposal to M28
+
+M28 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M3 announced that it voted M1 for President
+M4 announced that it voted M1 for President
+M49 announced that it voted M1 for President
+M1 send proposal to M29
+
+M34 announced that it voted M1 for President
+M6 announced that it voted M1 for President
+M1 send proposal to M30
+
+M8 announced that it voted M1 for President
+M14 announced that it voted M1 for President
+M1 send proposal to M31
+
+M45 announced that it voted M1 for President
+M31 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M1 send proposal to M32
+
+M42 announced that it voted M1 for President
+M32 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M1 send proposal to M33
+
+M25 announced that it voted M1 for President
+M33 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M1 send proposal to M34
+
+M28 announced that it voted M1 for President
+M34 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M40 announced that it voted M1 for President
+M1 send proposal to M35
+
+M48 announced that it voted M1 for President
+M47 announced that it voted M1 for President
+M1 send proposal to M36
+
+M17 announced that it voted M1 for President
+M5 announced that it voted M1 for President
+M1 send proposal to M37
+
+M37 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M37 announced that it voted M1 for President
+M38 announced that it voted M1 for President
+M1 send proposal to M38
+
+M38 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M15 announced that it voted M1 for President
+M1 send proposal to M39
+
+M16 announced that it voted M1 for President
+M19 announced that it voted M1 for President
+M1 send proposal to M40
+
+M40 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M32 announced that it voted M1 for President
+M46 announced that it voted M1 for President
+M1 send proposal to M41
+
+M48 announced that it voted M1 for President
+M22 announced that it voted M1 for President
+M1 send proposal to M42
+
+M18 announced that it voted M1 for President
+M34 announced that it voted M1 for President
+M1 send proposal to M43
+
+M33 announced that it voted M1 for President
+M1 send proposal to M44
+
+M1 send proposal to M45
+
+M45 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M1 send proposal to M46
+
+M46 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M1 send proposal to M47
+
+M47 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M1 send proposal to M48
+
+M48 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M1 send proposal to M49
+
+M1 send proposal to M50
+
+M37 announced that it voted M1 for President
+M33 announced that it voted M1 for President
+M40 announced that it voted M1 for President
+M44 announced that it voted M1 for President
+M4 announced that it voted M1 for President
+M46 announced that it voted M1 for President
+M36 announced that it voted M1 for President
+M41 announced that it voted M1 for President
+M43 announced that it voted M1 for President
+M47 announced that it voted M1 for President
+M5 announced that it voted M1 for President
+M45 announced that it voted M1 for President
+M35 announced that it voted M1 for President
+M39 announced that it voted M1 for President
+M6 announced that it voted M1 for President
+M3 announced that it voted M1 for President
+M38 announced that it voted M1 for President
+M7 announced that it voted M1 for President
+M8 announced that it voted M1 for President
+M49 announced that it voted M1 for President
+M34 announced that it voted M1 for President
+M9 announced that it voted M1 for President
+M42 announced that it voted M1 for President
+M48 announced that it voted M1 for President
+M11 announced that it voted M1 for President
+M10 announced that it voted M1 for President
+M14 announced that it voted M1 for President
+M15 announced that it voted M1 for President
+M16 announced that it voted M1 for President
+M17 announced that it voted M1 for President
+M18 announced that it voted M1 for President
+M19 announced that it voted M1 for President
+M22 announced that it voted M1 for President
+M25 announced that it voted M1 for President
+M28 announced that it voted M1 for President
+M31 announced that it voted M1 for President
+M32 announced that it voted M1 for President
+M33 announced that it voted M1 for President
+M34 announced that it voted M1 for President
+M37 announced that it voted M1 for President
+M38 announced that it voted M1 for President
+M40 announced that it voted M1 for President
+M45 announced that it voted M1 for President
+M31 announced that it voted M1 for President
+M7 announced that it voted M1 for President
+M46 announced that it voted M1 for President
+M47 announced that it voted M1 for President
+M21 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M13 announced that it voted M1 for President
+M43 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M35 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M23 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M36 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M42 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M50 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M39 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M49 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M35 announced that it voted M1 for President
+M12 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M30 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M13 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M21 announced that it voted M1 for President
+M29 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M27 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M41 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M44 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M20 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M50 announced that it voted M1 for President
+M24 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M26 information: Current Accept Proposal ID: 2 - Accepted Value: M1 - Status of Acceptor: DECIDED - Previous Acception: true
+
+M23 announced that it voted M1 for President
+M21 announced that it voted M1 for President
+M36 announced that it voted M1 for President
+M30 announced that it voted M1 for President
+M42 announced that it voted M1 for President
+M29 announced that it voted M1 for President
+M50 announced that it voted M1 for President
+M24 announced that it voted M1 for President
+M39 announced that it voted M1 for President
+M12 announced that it voted M1 for President
+M43 announced that it voted M1 for President
+M35 announced that it voted M1 for President
+M49 announced that it voted M1 for President
+M42 announced that it voted M1 for President
+M12 announced that it voted M1 for President
+M36 announced that it voted M1 for President
+M30 announced that it voted M1 for President
+M39 announced that it voted M1 for President
+M13 announced that it voted M1 for President
+M10 announced that it voted M1 for President
+M29 announced that it voted M1 for President
+M44 announced that it voted M1 for President
+M27 announced that it voted M1 for President
+M49 announced that it voted M1 for President
+M41 announced that it voted M1 for President
+M26 announced that it voted M1 for President
+M44 announced that it voted M1 for President
+M43 announced that it voted M1 for President
+M20 announced that it voted M1 for President
+M20 announced that it voted M1 for President
+M48 announced that it voted M1 for President
+M9 announced that it voted M1 for President
+M24 announced that it voted M1 for President
+M27 announced that it voted M1 for President
+M26 announced that it voted M1 for President
+M41 announced that it voted M1 for President
+M11 announced that it voted M1 for President
+M23 announced that it voted M1 for President

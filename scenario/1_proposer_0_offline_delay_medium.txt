@@ -1,0 +1,3 @@
+proposers:1
+response_time:medium
+offline:0

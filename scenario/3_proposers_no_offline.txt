@@ -1,0 +1,3 @@
+proposers:3
+response_time:immediately
+offline:0
